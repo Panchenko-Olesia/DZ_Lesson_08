@@ -3,3 +3,5 @@ def mane_function(national):
         print("Все буде Украіна!")
     elif national == 'russian':
         print('Russian ship go ...')
+    else:
+        print('Give to us F-16!!!')
