@@ -1,4 +1,7 @@
 def hello():
     x = input('VVedit chyslo: ')
-    print('Hello world')
+    if x > 10:
+        print('Hello world')
+    else:
+        print("Coodbuy!")
 
